@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvventoAPILibrary", "APIDemo\AvventoAPILibrary.csproj", "{B2A69298-19ED-4D26-B9A6-907A327A2B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvventoApiLibraryTester", "DemoImplementationConsole\AvventoApiLibraryTester.csproj", "{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvventoNativeAPIService", "AvventoNativeAPIService\AvventoNativeAPIService.csproj", "{86FE1046-A02F-40EB-B7FF-BAADE61398B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Debug|x64.ActiveCfg = Debug|x64
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Debug|x64.Build.0 = Debug|x64
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Release|x64.ActiveCfg = Release|x64
+		{B2A69298-19ED-4D26-B9A6-907A327A2B4A}.Release|x64.Build.0 = Release|x64
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Debug|x64.ActiveCfg = Debug|x64
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Debug|x64.Build.0 = Debug|x64
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FF5E0DB-99EA-4A06-B6C2-FA6A62C99A32}.Release|x64.Build.0 = Release|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Debug|x64.Build.0 = Debug|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Release|x64.ActiveCfg = Release|Any CPU
+		{86FE1046-A02F-40EB-B7FF-BAADE61398B0}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

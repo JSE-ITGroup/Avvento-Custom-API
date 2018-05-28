@@ -1,0 +1,42 @@
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.exe.config
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.exe
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\APIDemo.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\Channel.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\ConnectionData.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\log4net.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\Stt.Derivatives.Api.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\ClientSocket.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\STTSocketLibHelper.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\RogueMessageChecker.dll
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\APIDemo.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\Channel.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\ConnectionData.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\Stt.Derivatives.Api.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\ClientSocket.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\STTSocketLibHelper.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\bin\x64\Debug\RogueMessageChecker.pdb
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.csprojResolveAssemblyReference.cache
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.exe
+C:\Users\wpelser\Desktop\APIDemoV0.1\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.exe.config
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.exe
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\DemoImplementationConsole.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\Channel.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\ConnectionData.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\log4net.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\Stt.Derivatives.Api.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\ClientSocket.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\STTSocketLibHelper.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\RogueMessageChecker.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\Channel.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\ConnectionData.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\Stt.Derivatives.Api.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\ClientSocket.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\STTSocketLibHelper.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\RogueMessageChecker.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.csprojResolveAssemblyReference.cache
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.exe
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\x64\Debug\DemoImplementationConsole.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\AvventoAPILibrary.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\x64\Debug\AvventoAPILibrary.pdb

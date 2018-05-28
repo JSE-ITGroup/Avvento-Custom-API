@@ -1,0 +1,19 @@
+C:\My Projects\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe.config
+C:\My Projects\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe
+C:\My Projects\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.pdb
+C:\My Projects\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.csprojResolveAssemblyReference.cache
+C:\My Projects\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.exe
+C:\My Projects\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe.config
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe.config
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\bin\Debug\AvventoNativeAPIService.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.exe
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\AvventoNativeAPIService\obj\Debug\AvventoNativeAPIService.pdb

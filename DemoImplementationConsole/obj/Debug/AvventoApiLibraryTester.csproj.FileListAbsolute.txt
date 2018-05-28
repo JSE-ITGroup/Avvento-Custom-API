@@ -1,0 +1,38 @@
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.exe.config
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\Debug\AvventoApiLibraryTester.csprojResolveAssemblyReference.cache
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.exe
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\AvventoAPILibrary.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\Channel.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\ConnectionData.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\log4net.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\Stt.Derivatives.Api.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\ClientSocket.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\STTSocketLibHelper.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\RogueMessageChecker.dll
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\AvventoAPILibrary.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\Channel.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\ConnectionData.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\Stt.Derivatives.Api.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\bin\Debug\RogueMessageChecker.pdb
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\Debug\DemoImplementationConsole.exe
+C:\My Projects\APIDemo\DemoImplementationConsole\obj\Debug\DemoImplementationConsole.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.exe.config
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\DemoImplementationConsole.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\AvventoAPILibrary.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\Channel.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\ConnectionData.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\log4net.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\Stt.Derivatives.Api.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\ClientSocket.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\STTSocketLibHelper.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\RogueMessageChecker.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\AvventoAPILibrary.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\Channel.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\ConnectionData.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\Stt.Derivatives.Api.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\bin\Debug\RogueMessageChecker.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\obj\Debug\AvventoApiLibraryTester.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\obj\Debug\DemoImplementationConsole.exe
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\DemoImplementationConsole\obj\Debug\DemoImplementationConsole.pdb

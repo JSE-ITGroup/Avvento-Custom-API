@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DemoImplementationConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JSECCAPI</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P@ssw0rd</Value>
+    </Setting>
+    <Setting Name="IpAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.100.100.202</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1028</Value>
+    </Setting>
+    <Setting Name="Contract" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AQYK</Value>
+    </Setting>
+    <Setting Name="DealerCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CCM</Value>
+    </Setting>
+    <Setting Name="MemberCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MAYB</Value>
+    </Setting>
+    <Setting Name="MarketNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ClientCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LWL803</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

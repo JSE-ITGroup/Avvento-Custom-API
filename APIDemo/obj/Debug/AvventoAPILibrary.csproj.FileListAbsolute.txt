@@ -1,0 +1,38 @@
+C:\My Projects\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.dll.config
+C:\My Projects\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.pdb
+C:\My Projects\APIDemo\APIDemo\bin\Debug\Channel.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\ClientSocket.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\ConnectionData.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\log4net.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\RogueMessageChecker.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\ServerSocket.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\Stt.Derivatives.Api.dll
+C:\My Projects\APIDemo\APIDemo\bin\Debug\STTSocketLibHelper.dll
+C:\My Projects\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.dll
+C:\My Projects\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.pdb
+C:\My Projects\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.dll.config
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\AvventoAPILibrary.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\Channel.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\ClientSocket.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\ConnectionData.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\log4net.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\RogueMessageChecker.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\ServerSocket.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\Stt.Derivatives.Api.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\STTSocketLibHelper.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.csprojResolveAssemblyReference.cache
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.dll
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\obj\Debug\AvventoAPILibrary.pdb
+C:\Data\SourceCodeRepository\JSEMITSSOLUTIONS\APIDemo\APIDemo\bin\Debug\log4net.xml
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\bin\Debug\AvventoAPILibrary.dll.config
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\bin\Debug\AvventoAPILibrary.dll
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\bin\Debug\AvventoAPILibrary.pdb
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\bin\Debug\log4net.dll
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\bin\Debug\log4net.xml
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\obj\Debug\AvventoAPILibrary.csprojResolveAssemblyReference.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\obj\Debug\AvventoAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\obj\Debug\AvventoAPILibrary.dll
+C:\Users\au_xavier.watson\source\repos\Avvento Custom API\APIDemo\obj\Debug\AvventoAPILibrary.pdb
